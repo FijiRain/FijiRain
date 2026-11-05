@@ -15,6 +15,6 @@
 
 ### 💻 Core Stack
 
-`Python` • `Go` • `Linux / C` • `Docker` • `Pydantic` • `FastAPI` • `OpenAI API` • `MCP` • `LangChain` • `Git` • `Ollama` 
+`Python` • `Go` • `Linux / C` • `Docker` • `Pydantic` • `FastAPI` • `OpenAI API` • `MCP` • `LangChain` • `Git` • `Ollama` • `HF Transformers`
 
 ![Top Langs](https://github-readme-stats-nine-teal-20.vercel.app/api/top-langs/?username=FijiRain&theme=tokyonight&hide=html,css&layout=compact&hide_border=true)
