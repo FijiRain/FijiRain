@@ -1,16 +1,20 @@
-## Hi there 👋
+# Théaud (Tod) Moga
 
-<!--
-**FijiRain/FijiRain** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Software Engineer | Python, LLM Agents & Systems Architecture**  
+📍 Toulouse / Paris & Remote — À la recherche d'un stage de fin d'études de 6 mois (dès mars 2027).
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Mes projets:
+
+* **Agent Autonome SWE :** Conception de boucles ReAct, exécution sécurisée en sandbox Docker et interfaçage via Model Context Protocol (MCP). Rédaction [d'un état de l'art](https://tod-2.gitbook.io/documentation-agent-smith) et un benchmark des modèles free-tier. 
+* **RAG Hybride & Indexation :** Chunking via LangChain de code source Python et Markdown, couplage recherche lexicale (BM25) et vectorielle dense avec Reciprocal Rank Fusion (RRF).
+* **Inférence & Constraint Decoding :** Masquage dynamique de logits pour imposer des grammaires formelles et du JSON garanti sans réessai.
+
+---
+
+### 💻 Stack principale
+
+`Python` • `Go` • `Linux / C` • `LangChain` • `Pydantic` • `Docker` • `Git` • `GitHub` • `MCP` • `Ollama`
+
+📫 **Contact :** [LinkedIn](https://linkedin.com/in/theaudmoga)
