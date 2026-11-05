@@ -18,3 +18,5 @@
 `Python` • `Go` • `Linux / C` • `LangChain` • `Pydantic` • `Docker` • `Git` • `GitHub` • `MCP` • `Ollama`
 
 📫 **Contact :** [LinkedIn](https://linkedin.com/in/theaudmoga)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FijiRain&theme=tokyonight&hide=html,css&layout=compact&hide_border=true)
