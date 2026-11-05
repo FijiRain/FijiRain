@@ -19,4 +19,4 @@
 
 📫 **Contact :** [LinkedIn](https://linkedin.com/in/theaudmoga)
 
-![Top Langs](https://github-readme-stats-nine-teal-20.vercel.app/api/top-langs/?username=FijiRain&theme=tokyonight&hide=html,css&layout=compact&hide_border=true)
+![Top Langs](https://github-readme-stats-nine-teal-20.vercel.app/api/top-langs/?username=FijiRain&theme=tokyonight&hide=html,css&hide_border=true)
