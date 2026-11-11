@@ -8,7 +8,7 @@
 ### Featured Projects
 
 * [**Autonomous SWE Code Agent:**](https://github.com/FijiRain/SWE-Code-Agent) ReAct orchestration loop with isolated Docker sandboxing and tool execution via the Model Context Protocol (MCP) reaching >75% on *SWEbench Verified*.
-Authored a comprehensive [state-of-the-art reference](https://tod-2.gitbook.io/documentation-agent-smith) and benchmarked free-tier LLM providers.
+Authored a comprehensive [state-of-the-art reference](https://tod-2.gitbook.io/documentation-agent-smith) and [benchmarked free-tier](https://github.com/FijiRain/SWE-Code-Agent/blob/main/BENCHMARK_REPORT.md) LLM providers.
 
 * [**Hybrid Codebase RAG:**](https://github.com/FijiRain/Hybrid-Code-RAG) Code chunking for Python and Markdown via LangChain, combining lexical retrieval (BM25) and dense vector embeddings with Reciprocal Rank Fusion (RRF).
 
