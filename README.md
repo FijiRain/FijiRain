@@ -20,4 +20,4 @@ Authored a comprehensive [state-of-the-art reference](https://tod-2.gitbook.io/d
 
 `Python` • `Go` • `Linux / C` • `Docker` • `Pydantic` • `FastAPI` • `OpenAI API` • `MCP` • `LangChain` • `Git` • `Ollama` • `HF Transformers`
 
-![Top Langs](https://github-readme-stats-nine-teal-20.vercel.app/api/top-langs/?username=FijiRain&theme=tokyonight&hide=html,css&layout=compact&hide_border=true&exclude_repo=RAG_Against_The_Machine)
+![Top Langs](https://github-readme-stats-nine-teal-20.vercel.app/api/top-langs/?username=FijiRain&theme=tokyonight&hide=html,css&layout=compact&hide_border=true&exclude_repo=RAG_Against_The_Machine&exclude_repo=github-readme-stats)
