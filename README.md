@@ -4,7 +4,7 @@
 📍 Toulouse / Paris & Remote — Seeking a 6-month end-of-studies internship (starting March 2027).
 
 Hi! 
-I'm Tod, currently wrapping up the core curriculum at École 42. AI is one of my favorite areas in software engineering, and I'm deeply curious about it—both from a technical and a philosophical perspective.
+I'm Tod, currently wrapping up the core curriculum at École 42. AI is one of my favorite areas in software engineering, and I'm deeply curious about it, both from a technical and a philosophical perspective.
 
 
 ---
@@ -20,7 +20,7 @@ Authored a comprehensive [state-of-the-art reference](https://tod-2.gitbook.io/d
 
 ---
 
-### 💻 Core Stack
+### Core Stack
 
 `Python` • `Go` • `Linux / C` • `Docker` • `Pydantic` • `FastAPI` • `OpenAI API` • `MCP` • `LangChain` • `Git` • `Ollama` • `HF Transformers`
 
