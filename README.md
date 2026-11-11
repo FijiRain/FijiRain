@@ -3,6 +3,10 @@
 **Software Engineer | Python, LLM Agents & Systems Architecture**  
 📍 Toulouse / Paris & Remote — Seeking a 6-month end-of-studies internship (starting March 2027).
 
+Hi! 
+I'm Tod, currently wrapping up the core curriculum at École 42. AI is one of my favorite areas in software engineering, and I'm deeply curious about it—both from a technical and a philosophical perspective.
+
+
 ---
 
 ### Featured Projects
